@@ -107,7 +107,6 @@ body {
   white-space: nowrap;
   word-wrap: normal;
   direction: ltr;
-  -webkit-font-feature-settings: 'liga';
   -webkit-font-smoothing: antialiased;
 }
 .date {
@@ -125,7 +124,7 @@ body {
   font-size: 48px;
 }
 .date-clock p {
-  
+  margin: 0b;
 }
 .date-clock sub {
   text-transform: uppercase;
